@@ -1,9 +1,9 @@
 //Nome do Autor: Patrick Renan Marques Barboza
 //Data de criação: 16/05/2022
-//salvar como Atividade13.java
+//salvar como ProgramaJava2.java
 
 //nome da classe
-class Atividade13
+class ProgramaJava2
 {
 	//módulo principal com a entrada pela linha de comando
 	public static void main (String entrada[])
