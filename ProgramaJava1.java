@@ -1,7 +1,7 @@
-//salvar como MeuPrimeiroProgramaJava.java
+//salvar ProgramaJava1.java
 
 //nome da classe
-class MeuPrimeiroProgramaJava
+class ProgramaJava1
 {
 	//módulo principal com a entrada pela linha de comando
 	public static void main (String entrada[])
